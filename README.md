@@ -1,6 +1,8 @@
 # ETuDici
 
-**TODO: Add description**
+**Well you might not learn Italian using this, but I might... :D**
+
+> Trovarmi a [@e_tu_dici_bot](https://t.me/e_tu_dici_bot)
 
 ## Installation
 
